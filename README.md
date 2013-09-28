@@ -1,9 +1,9 @@
-Getting Started with Php Sample Application:
+Getting Started with App42PaaS-PHP-Sample Application:
 ----------------------------------------------------
 
 This is a simple Php application. This application Welcomes you to App42PaaS.
 
-<b>[Download the source code from git.](https://github.com/shephertz/App42_PaaS_SampleApps/archive/master.zip)</b>
+<b>[Download the source code from git.](https://github.com/shephertz/App42PaaS-PHP-Sample/archive/master.zip)</b>
 
 Project Configuration:
 ----------------------
