@@ -13,10 +13,10 @@
     <div class="cloud_container">
       <div class="app_sdk_image"> <img src="images/php_app_paas.png" alt="java" /></div>
       <div class="app_sdk_image_th">
-        <h1>Welcome to App42 PaaS</h1>
+        <h1>App42 PaaS Php Sample</h1>
       </div>
-      <div class="massage_text_app">(You have successfully deployed your first Php Application)</div>
-      <div class="cloud_button_paas"> <a href="http://app42paas.shephertz.com/dev-center/getting-started"><img src="images/app-page_gt.png" alt="Get Started" / style="margin-right:20px;"></a> <a href="http://apphq.app42paas.com/login"><img src="images/app-page_console.png" alt="AppHQ Console" /> </a></div>
+      <div class="massage_text_app"></div>
+      <div class="cloud_button_paas"> <a href="http://app42paas.shephertz.com/dev-center/getting-started"><img src="images/app-page_gt.png" alt="Get Started" / style="margin-right:20px;"></a> <a href="https://paashq.shephertz.com/login"><img src="images/app-page_console.png" alt="AppHQ Console" /> </a></div>
     </div>
   </div>
 </div>
